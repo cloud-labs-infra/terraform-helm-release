@@ -1,1 +1,1 @@
-# Module name
+# Terraform Helm Release module
