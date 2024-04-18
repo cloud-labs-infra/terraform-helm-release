@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/cloud-labs-infra/terraform-helm-release/compare/v1.0.0...v1.1.0) (2024-04-18)
+
+
+### Features
+
+* Update version of tf and providers ([#5](https://github.com/cloud-labs-infra/terraform-helm-release/issues/5)) ([3e5e7ca](https://github.com/cloud-labs-infra/terraform-helm-release/commit/3e5e7ca8e3464c8deaf6b42308f8f04c26e4e5b9))
+
 ## 1.0.0 (2023-04-24)
 
 
